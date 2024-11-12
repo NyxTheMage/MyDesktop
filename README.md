@@ -1,5 +1,7 @@
 # Nyx's Theme for Oh My Posh
 
+![Example of prompt's colours](example.png)
+
 How I make my terminal look nice. Using Oh My Posh, blending the default
 JanDeDobbeleer theme with Catppuccin colours. I use the Catppuccin Mocha Green
 theme for KDE Plasma Desktop on Linux and this makes my terminal prompt match.
