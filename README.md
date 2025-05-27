@@ -2,9 +2,10 @@
 
 ![Example of prompt's colours](example.png)
 
-How I make my terminal look nice. Using Oh My Posh, blending the default
-JanDeDobbeleer theme with Catppuccin colours. I use the Catppuccin Mocha Green
-theme for KDE Plasma Desktop on Linux and this makes my terminal prompt match.
+How I make my terminal look nice using Oh My Posh. I use the Catppuccin Mocha
+theme for the KDE Plasma Desktop on Linux and this makes my terminal prompt
+match. I include the full Catppuccin Mocha pallette in the TOML file to make it
+easy to mix and match to taste.
 
 # Requirements
 
