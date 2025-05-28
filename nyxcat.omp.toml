@@ -59,11 +59,11 @@ newline   = true
     style            = "diamond"
     leading_diamond  = "<transparent,background></>"
     trailing_diamond = ""
+    background       = "p:teal"
     foreground       = "p:black"
-    template         = " {{ if .Error }}󰅖{{ else }}󰄬{{ end }} "
+    template         = " {{ if ne .Code 0 }}󰅖{{ else }}󰄬{{ end }} "
     background_templates = [
-        "{{ if gt .Code 0 }}p:red{{ end }}",
-        "{{ if eq .Code 0 }}p:teal{{ end }}",
+        "{{ if ne .Code 0 }}p:red{{ end }}",
     ]
 
         [blocks.segments.properties]
@@ -87,10 +87,10 @@ overflow  = "hidden"
     style            = "diamond"
     leading_diamond  = "<transparent,background></>"
     trailing_diamond = ""
+    background       = "p:teal"
     foreground       = "p:black"
     background_templates = [
-        "{{ if gt .Code 0 }}p:red{{ end }}",
-        "{{ if eq .Code 0 }}p:teal{{ end }}",
+        "{{ if ne .Code 0 }}p:red{{ end }}",
     ]
 
         [blocks.segments.properties]
@@ -107,20 +107,20 @@ newline   = true
     type       = "text"
     style      = "plain"
     background = "transparent"
+    foreground = "p:teal"
     template   = "❯"
     foreground_templates = [
-        "{{ if gt .Code 0 }}p:red{{ end }}",
-        "{{ if eq .Code 0 }}p:teal{{ end }}",
+        "{{ if ne .Code 0 }}p:red{{ end }}",
     ]
 
 [transient_prompt]
 type       = "text"
 style      = "plain"
 background = "transparent"
+foreground = "p:teal"
 template   = "❯ "
 foreground_templates = [
-    "{{ if gt .Code 0 }}p:red{{ end }}",
-    "{{ if eq .Code 0 }}p:teal{{ end }}",
+    "{{ if ne .Code 0 }}p:red{{ end }}",
 ]
 
 [secondary_prompt]
