@@ -1,4 +1,4 @@
-![My Desktop](assets/look.png)
+![My Desktop](assets/kdelook.png)
 
 I like my mess of a desktop. Here will be where I keep the config.
 
