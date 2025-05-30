@@ -2,20 +2,23 @@
 
 I like my mess of a desktop. Here will be where I keep the config.
 
-# Overall Theme
+I believe the wallpaper artist is [Michal Kvac](https://kvacm.carrd.co/)
+
+## Overall Theme
 
 - [Catppuccin](https://github.com/catppuccin/catppuccin)
 - [Papirus Icons](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 - [Papirus Folders](https://github.com/PapirusDevelopmentTeam/papirus-folders)
 
-# KDE Plasma 6 Config
+## KDE Plasma 6 Config
 
 Config save: [nyxcat.knsv](nyxcat/conf.yaml)
 
 - [Konsave](https://github.com/Prayag2/konsave)
 - [KZones](https://github.com/gerritdevriese/kzones)
+- [application-title-bar](https://github.com/antroids/application-title-bar)
 
-# Terminal
+## Terminal
 
 Oh My Posh theme: [nyxcat.omp.toml](nyxcat.omp.toml)
 
@@ -24,7 +27,7 @@ Oh My Posh theme: [nyxcat.omp.toml](nyxcat.omp.toml)
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 - [Oh My Posh](https://ohmyposh.dev/)
 
-# Terminal Apps
+## Terminal Apps
 
 - [btop](https://github.com/aristocratos/btop)
 - [nvtop](https://github.com/Syllo/nvtop)
