@@ -1,0 +1,17 @@
+[kdeglobals][General]
+ColorScheme=CatppuccinMochaTeal
+
+[kcminputrc][Mouse]
+cursorTheme=Catppuccin-Mocha-Teal-Cursors
+
+[kwinrc][org.kde.kdecoration2]
+ButtonsOnLeft=
+ButtonsOnRight=IAX
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__CatppuccinMocha-Classic
+
+[plasmarc][Theme]
+name=default
+
+[KSplash]
+Theme=Catppuccin-Mocha-Teal-splash

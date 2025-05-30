@@ -1,17 +1,35 @@
-# Nyx's Theme for Oh My Posh
+![My Desktop](assets/look.png)
 
-![Example of prompt's colours](example.png)
+I like my mess of a desktop. Here will be where I keep the config.
 
-How I make my terminal look nice using Oh My Posh. I use the Catppuccin Mocha
-theme for the KDE Plasma Desktop on Linux and this makes my terminal prompt
-match. I include the full Catppuccin Mocha pallette in the TOML file to make it
-easy to mix and match to taste.
+# Overall Theme
 
-# Requirements
-
-- [Oh My Posh](https://github.com/jandedobbeleer/oh-my-posh)
 - [Catppuccin](https://github.com/catppuccin/catppuccin)
+- [Papirus Icons](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
+- [Papirus Folders](https://github.com/PapirusDevelopmentTeam/papirus-folders)
 
-# How to Use
+# KDE Plasma 6 Config
 
-- [Oh My Posh Customisation](https://ohmyposh.dev/docs/installation/customize)
+Config save: [nyxcat.knsv](nyxcat/conf.yaml)
+
+- [Konsave](https://github.com/Prayag2/konsave)
+- [KZones](https://github.com/gerritdevriese/kzones)
+
+# Terminal
+
+Oh My Posh theme: [nyxcat.omp.toml](nyxcat.omp.toml)
+
+- [Z Shell](https://zsh.sourceforge.io/)
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+- [Oh My Posh](https://ohmyposh.dev/)
+
+# Terminal Apps
+
+- [btop](https://github.com/aristocratos/btop)
+- [nvtop](https://github.com/Syllo/nvtop)
+- [tmux](https://github.com/tmux/tmux)
+- [pipx](https://github.com/pypa/pipx)
+- [atuin](https://github.com/atuinsh/atuin)
+- [rclone](https://github.com/rclone/rclone)
+- [betterdiscordctl](https://github.com/bb010g/betterdiscordctl)
