@@ -25,7 +25,7 @@ Oh My Posh theme: [nyxcat.omp.toml](nyxcat.omp.toml)
 - [Z Shell](https://zsh.sourceforge.io/)
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
-- [Oh My Posh](https://ohmyposh.dev/)
+- [Oh My Posh](https://github.com/jandedobbeleer/oh-my-posh)
 
 ## Terminal Apps
 
@@ -33,6 +33,19 @@ Oh My Posh theme: [nyxcat.omp.toml](nyxcat.omp.toml)
 - [nvtop](https://github.com/Syllo/nvtop)
 - [tmux](https://github.com/tmux/tmux)
 - [pipx](https://github.com/pypa/pipx)
+- [neovim](https://github.com/neovim/neovim)
 - [atuin](https://github.com/atuinsh/atuin)
 - [rclone](https://github.com/rclone/rclone)
 - [betterdiscordctl](https://github.com/bb010g/betterdiscordctl)
+
+## GUI Apps
+
+- [qpwgraph](https://gitlab.freedesktop.org/rncbc/qpwgraph)
+- [StreamController](https://github.com/StreamController/StreamController)
+- [Vorta](https://github.com/borgbase/vorta)
+- [Ente Photos](https://github.com/ente-io/ente)
+- [Obsidian](https://obsidian.md/)
+
+## Non-Linux Apps
+
+- [AffinityOnLinux](https://github.com/Twig6943/AffinityOnLinux)
