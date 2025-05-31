@@ -72,6 +72,10 @@ note-taking
 code editor
 - [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord/)
 Discord enhancement
+- [Warehouse](https://github.com/flattool/warehouse)
+flatpak management
+- [Flatseal](https://github.com/tchx84/flatseal)
+manage flatpak permissions
 
 ## Non-Linux Apps
 
