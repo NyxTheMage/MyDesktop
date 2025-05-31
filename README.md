@@ -70,6 +70,8 @@ photo storage and sync
 note-taking
 - [Kate](https://invent.kde.org/utilities/kate)
 code editor
+- [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord/)
+Discord enhancement
 
 ## Non-Linux Apps
 
