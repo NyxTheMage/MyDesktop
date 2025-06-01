@@ -12,6 +12,8 @@ community-driven pastel theme
 icon theme
 - [Papirus Folders](https://github.com/PapirusDevelopmentTeam/papirus-folders)
 makes folders match theme colour
+- [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
+a varaety of great fonts complete with symbols
 
 ## KDE Plasma 6 Config
 
@@ -80,3 +82,4 @@ manage flatpak permissions
 ## Non-Linux Apps
 
 - [AffinityOnLinux](https://github.com/Twig6943/AffinityOnLinux)
+install and run Affinity Photo on Linux
