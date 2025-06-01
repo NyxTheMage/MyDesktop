@@ -60,10 +60,15 @@ popupHeight=450
 popupWidth=507
 
 [Containments][28][Applets][29][Configuration][Appearance]
+autoFontAndSize=false
 customDateFormat=ddd d MMM
 dateDisplayFormat=BesideTime
 dateFormat=custom
 firstDayOfWeek=1
+fontFamily=FantasqueSansM Nerd Font
+fontSize=12
+fontStyleName=Regular
+fontWeight=400
 use24hFormat=2
 
 [Containments][28][Applets][29][Configuration][ConfigDialog]

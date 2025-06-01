@@ -15,7 +15,7 @@ Elide Tab Text=false
 Enable Context ToolView=false
 Expand Tabs=false
 Icon size for left and right sidebar buttons=32
-Last Session=
+Last Session=MyDesktop
 Modified Notification=false
 Mouse back button action=0
 Mouse forward button action=0
@@ -94,7 +94,7 @@ Color Theme=Catppuccin Mocha
 Line Height Multiplier=1
 Show Indentation Lines=false
 Show Whole Bracket Expression=false
-Text Font=MesloLGM Nerd Font Mono,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+Text Font=FantasqueSansM Nerd Font Mono,11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 Text Font Features=
 Word Wrap Marker=true
 

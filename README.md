@@ -14,6 +14,8 @@ icon theme
 makes folders match theme colour
 - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
 a variety of great fonts complete with symbols
+- [Fantasque Sans](https://github.com/belluzj/fantasque-sans)
+the font I use
 
 ## KDE Plasma 6 Config
 
