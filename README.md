@@ -14,8 +14,8 @@ icon theme
 makes folders match theme colour
 - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
 a variety of great fonts complete with symbols
-- [CaskaydiaCove](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/CascadiaCode)
-the font I use
+- [Iosevka](https://github.com/be5invis/Iosevka)
+font I use for reading and editing
 
 ## KDE Plasma 6 Config
 

@@ -1,6 +1,6 @@
 [Appearance]
 ColorScheme=catppuccin-mocha
-Font=CaskaydiaCove Nerd Font Mono,9,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+Font=Iosevka Nerd Font Mono,10.5,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 
 [General]
 Name=nyxcat
