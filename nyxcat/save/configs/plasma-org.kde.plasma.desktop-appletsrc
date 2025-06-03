@@ -65,7 +65,7 @@ customDateFormat=ddd d MMM
 dateDisplayFormat=BesideTime
 dateFormat=custom
 firstDayOfWeek=1
-fontFamily=FantasqueSansM Nerd Font
+fontFamily=CaskaydiaCove Nerd Font Propo
 fontSize=12
 fontStyleName=Regular
 fontWeight=400
@@ -136,7 +136,7 @@ plugin=org.kde.plasma.kickoff
 [Containments][3][Applets][4][Configuration]
 PreloadWeight=100
 popupHeight=741
-popupWidth=770
+popupWidth=769
 
 [Containments][3][Applets][4][Configuration][ConfigDialog]
 DialogHeight=540
