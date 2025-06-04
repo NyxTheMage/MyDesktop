@@ -135,8 +135,8 @@ plugin=org.kde.plasma.kickoff
 
 [Containments][3][Applets][4][Configuration]
 PreloadWeight=100
-popupHeight=741
-popupWidth=769
+popupHeight=627
+popupWidth=771
 
 [Containments][3][Applets][4][Configuration][ConfigDialog]
 DialogHeight=540
@@ -144,7 +144,8 @@ DialogWidth=720
 
 [Containments][3][Applets][4][Configuration][General]
 favoritesPortedToKAstats=true
-icon=start-here
+icon=pop-cosmic-applications
+systemFavorites=suspend\\,hibernate\\,reboot\\,shutdown
 
 [Containments][3][Applets][6]
 immutability=1

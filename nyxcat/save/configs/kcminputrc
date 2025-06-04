@@ -1,6 +1,3 @@
-[ButtonRebinds][Mouse]
-ExtraButton1=Key,Meta
-
 [Libinput][1452][591][Keychron Keychron K2]
 NaturalScroll=true
 PointerAccelerationProfile=1

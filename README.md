@@ -1,8 +1,9 @@
 ![My Desktop](assets/kdelook.png)
 
-I like my mess of a desktop. Here will be where I keep the config.
+I like my mess of a desktop. Here will be where I keep the config. It is mostly
+KDE Plasma with a few changes for a Pop OS esque workflow.
 
-I believe the wallpaper artist is [Michal Kvac](https://kvacm.carrd.co/)
+The wallpaper artist is [Michal Kvac](https://kvacm.carrd.co/)
 
 ## Overall Theme
 
