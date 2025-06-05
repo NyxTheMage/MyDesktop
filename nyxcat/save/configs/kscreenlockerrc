@@ -1,3 +1,9 @@
+[Greeter]
+WallpaperPlugin=org.kde.image
+
+[Greeter][LnF][General]
+showMediaControls=false
+
 [Greeter][Wallpaper][org.kde.image][General]
 Image=/home/nyx/Pictures/Snakes.JPG
 PreviewImage=/home/nyx/Pictures/Snakes.JPG

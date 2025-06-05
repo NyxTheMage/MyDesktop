@@ -71,7 +71,7 @@ Elgato Stream Deck control and plugins
 drive backup
 - [Ente Photos](https://github.com/ente-io/ente)
 photo storage and sync
-- [Obsidian](https://obsidian.md/)
+- [Obsidian](https://github.com/obsidianmd/obsidian-releases)
 note-taking
 - [Kate](https://invent.kde.org/utilities/kate)
 code editor
